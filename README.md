@@ -5,7 +5,7 @@
 
 ## Petit résumé
 
-- S'il y a bien une chose qui n'a pas évolué dans nos logements, c'est bien la boite aux lettres. Alors que notre utilisation, elle, s'est considérablement modifiée. Des colis qui, souvent, plus volumineux, en plus grande quantité(Dû au developpement de l'e-commerce), n'entrent plus dans nos boites aux lettres. Heureusement, il y a maintenant Lettric: une boite aux lettres connectée capable d'envoyer une notification au client lorsqu'un colis est livré dans sa boite au lettre.
+- S'il y a bien une chose qui n'a pas évolué dans nos logements, c'est notre utilisation de la boite aux lettres. Alors que nos habitudes, elles, se sont  considérablement modifiées au fil du temps. En effet, avec le développement du e-commerce, les colis sont toujours plus nombreux, et les particuliers toujours plus impatient à l'idée de recevoir leurs colis.  Mais ils ne vont pas patienter des heures devant leurs boîtes aux lettres, attendant l'arrivée du facteur.... Heureusement, il y a toujours une solution, et ici la solution c'est Lettric: une boite aux lettres connectée qui envoie une notification au client lorsqu'un colis est livré dans sa boite au lettre.
 
 ## Objectifs
 
