@@ -20,6 +20,12 @@
 - HTML
 - CSS
 
+## HardWare
+<img src="./Assets/soft.png" alt="Lettric" />
+
+## Software
+<img src="./Assets/demo.png" alt="Lettric" />
+
 ## Auteur
 
 - [@Pierre](https://github.com/Pierre-Portfolio)
