@@ -1,33 +1,15 @@
-const int unBouton = 13; // un bouton sur la broche 2
-const int uneLed = 12;
-
-
-
-/**
-  Adafruit MQTT Library ESP8266 Example
-
-  Must use ESP8266 Arduino from:
-    https://github.com/esp8266/Arduino
-
-  Works great with Adafruit's Huzzah ESP board & Feather
-  ----> https://www.adafruit.com/product/2471
-  ----> https://www.adafruit.com/products/2821
-
-  Adafruit invests time and resources providing this open source code,
-  please support Adafruit and open-source hardware by purchasing
-  products from Adafruit!
-
-  Written by Tony DiCola for Adafruit Industries.
-  MIT license, all text above must be included in any redistribution
- **/
 #include <ESP8266WiFi.h>
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
+
+const int unBouton = 13;
+const int uneLed = 12;
 
 /** WiFi Access Point **/
 
 #define WLAN_SSID       "PULV_IOT"
 #define WLAN_PASS       "2c3Gt1oTw8xx20"
+
 /** Adafruit.io Setup */
 
 #define AIO_SERVER      "gdp.devinci.fr"
