@@ -10,7 +10,7 @@
 ## Objectifs
 
 - Stocker les colis.
-- Prévenir l'utilisateur de l'arrivé des colis sur un site web.
+- Prévenir l'utilisateur de l'arrivé des colis via un site web.
 
 ## Techno
 
