@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="./Assets/header.png" alt="Lettric" />
 </h1>
+
 ---
 
 ## Petit résumé
